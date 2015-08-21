@@ -10,6 +10,8 @@ The corefx repo contains the library implementation (called "CoreFX") for [.NET 
 
 You can also see more information in the [Documentation README](Documentation/README.md). 
 
+Terst
+
 .NET Core is a modular implementation of .NET that can be used as the base stack for a wide variety of scenarios, today scaling from console utilities to web apps in the cloud.  You can learn more about .NET Core and how and where you can use it in the [.NET Core is open source][.NET Core oss] and [Introducing .NET Core][Introducing .NET Core] blog posts.
 
 The [.NET Core Runtime repo](https://github.com/dotnet/coreclr) contains the  runtime implementation (called "CoreCLR") for .NET Core. It includes RyuJIT, the .NET GC, native interop and many other components.
