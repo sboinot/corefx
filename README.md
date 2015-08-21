@@ -1,6 +1,6 @@
 # .NET Core Libraries (CoreFX)
 
-|   |Linux|Windows|OS X|
+|   |Linux|Windows|OS X|ssd
 |:-:|:-:|:-:|:-:|
 |**Debug**|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_linux_debug_tst/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_linux_debug_tst/)|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_windows_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_windows_debug/)|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_mac_debug/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_mac_debug/)|
 |**Release**|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_linux_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_linux_release/)|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_windows_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_windows_release/)|[![Build status](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_mac_release/badge/icon)](http://dotnet-ci.cloudapp.net/job/dotnet_corefx_mac_release/)|
